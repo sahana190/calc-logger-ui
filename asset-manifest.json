@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calc-logger-ui/static/css/main.4ca22134.chunk.css",
+    "main.js": "/calc-logger-ui/static/js/main.7a998319.chunk.js",
+    "main.js.map": "/calc-logger-ui/static/js/main.7a998319.chunk.js.map",
+    "runtime-main.js": "/calc-logger-ui/static/js/runtime-main.84da926f.js",
+    "runtime-main.js.map": "/calc-logger-ui/static/js/runtime-main.84da926f.js.map",
+    "static/js/2.d150001f.chunk.js": "/calc-logger-ui/static/js/2.d150001f.chunk.js",
+    "static/js/2.d150001f.chunk.js.map": "/calc-logger-ui/static/js/2.d150001f.chunk.js.map",
+    "index.html": "/calc-logger-ui/index.html",
+    "precache-manifest.3acae18b8b4b1b5eb436fb2d3ce01bf0.js": "/calc-logger-ui/precache-manifest.3acae18b8b4b1b5eb436fb2d3ce01bf0.js",
+    "service-worker.js": "/calc-logger-ui/service-worker.js",
+    "static/css/main.4ca22134.chunk.css.map": "/calc-logger-ui/static/css/main.4ca22134.chunk.css.map",
+    "static/js/2.d150001f.chunk.js.LICENSE.txt": "/calc-logger-ui/static/js/2.d150001f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84da926f.js",
+    "static/js/2.d150001f.chunk.js",
+    "static/css/main.4ca22134.chunk.css",
+    "static/js/main.7a998319.chunk.js"
+  ]
+}
